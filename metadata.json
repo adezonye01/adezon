@@ -1,0 +1,6 @@
+{
+  "name": "ADEZON",
+  "description": "نظام إدارة فواتير صيانة كاميرات المراقبة وتوافعها لمركز أديزون للصيانة في اليمن إب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
